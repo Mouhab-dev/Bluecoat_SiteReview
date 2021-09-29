@@ -19,7 +19,7 @@ Get Domain/URL category by BlueCoat SiteReview with unlimited requests.
 ## Usage:
 - Edit the script before you run it, add your proxy settings or comment the proxy block of code and also the requests line.
 -	Put the Domains/URLs in a file called "iocs.txt", then put the text file In the same directory the script is running.
--	Run the following command: ```pyhton3 bluecoat-checker.py```
+-	Run the following command: ```pyhton3 SiteReview.py```
 -	Once the script has finished, you will see a list of Domains/URLs against their category available in your terminal window.
 -	Also a txt file will be generated under the name "iocs_result.txt", which you will use to block Domains/URLs (not yet identified by Bluecoat).
 
