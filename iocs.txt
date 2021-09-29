@@ -1,0 +1,10 @@
+google.com
+facebook.com
+twitter.com
+yahoo.com
+gmail.com
+github.com
+hackerone.com
+hackerrank.com
+protonmail.com
+instagram.com
