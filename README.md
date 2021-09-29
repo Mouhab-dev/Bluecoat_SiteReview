@@ -4,6 +4,7 @@ Get Domain/URL category by BlueCoat SiteReview with unlimited requests.
 
 ## Requirements:
 -	You have to install pytesseract python library first using:	 ```pip install pytesseract```
+-	Install pillow python library using: ```pip install pillow```
 -	Download and Install "tesseract" using this link: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.1.0.20190314.exe 
 -	Install "tesseract" inside the project directory, so the installation directory would look like ```C:\Users\\<$username>\Desktop\\<$script_folder_name>\pytesseract```
 
