@@ -13,6 +13,7 @@ Get Domain/URL category by BlueCoat SiteReview with unlimited requests.
 - I have decided to fork this project, to adjust the script and make it read a bulk of hashes from an input file, and output the not malicious (not yet identified by Bluecoat Sitereview) which you will need to block in your environment.
 - Fixed some bugs in the way the script handles the captcha check and wrong domain checks.
 - Fixed category name not parsed correctly.
+- Added proxy support, if you are running this script behind proxy.
 
 
 ## Usage:
