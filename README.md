@@ -24,4 +24,4 @@ Get Domain/URL category by BlueCoat SiteReview with unlimited requests.
 
 
 ## Bugs and Issues
-Have a bug or an issue with the website? [Open a new issue](https://github.com/Mouhab-dev/Bluecoat_SiteReview/issues) here on GitHub.
+Have a bug or an issue with the script? [Open a new issue](https://github.com/Mouhab-dev/Bluecoat_SiteReview/issues) here on GitHub.
